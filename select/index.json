@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "世界一HAPPYな女の子",
+  "base_artist": "℃-ute",
+  "createdAt": "2026-02-19T03:10:54.135542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界一HAPPYな女の子",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/01_世界一HAPPYな女の子_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界一HAPPYな女の子 (Instrumental)",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/02_世界一HAPPYな女の子_(Instrumental)_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界一HAPPYな女の子",
+      "artist": "℃‐ute",
+      "has_synced": false,
+      "path": "select/03_世界一HAPPYな女の子_°C‐ute.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界一HAPPYな女の子 - Instrumental",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/04_世界一HAPPYな女の子_-_Instrumental_°C-ute.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界一HAPPYな女の子",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/pl_01_世界一HAPPYな女の子_°C-ute.txt"
+    }
+  ]
+}
